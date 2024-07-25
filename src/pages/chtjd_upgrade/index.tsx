@@ -68,8 +68,8 @@ function ChtjdUpgrade() {
 
   return (
     <body>
-      <img className="chtjd-upgrade" />
       <div className="container">
+        <img className="chtjd-upgrade" />
         <h1 className="fifth">안동 초성 게임</h1>
       </div>
       <div className="container2">
